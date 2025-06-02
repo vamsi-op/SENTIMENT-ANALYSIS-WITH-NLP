@@ -69,3 +69,4 @@ This task was a hands-on introduction to natural language processing and text cl
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/a91823da-8a49-409c-bcd6-c38ba460fdba)
