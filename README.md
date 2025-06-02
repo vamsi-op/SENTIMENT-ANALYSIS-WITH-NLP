@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS
 
-*MENTORE*: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
 ## 🧠 Task 2: Sentiment Analysis using TF-IDF and Logistic Regression – Detailed Description
 
